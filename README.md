@@ -1,4 +1,6 @@
 
+
+  
 # aucoresnet
 
 **OFFICIAL REPOSITORY**
@@ -10,7 +12,8 @@ AUCO ResNet: an end-to-end network for Covid-19 pre-screening from cough and bre
 AUCO ResNet: an end-to-end network for Covid-19 pre-screening from cough and breath
 
 # Cite
-Dentamaro, V., Giglio, P., Impedovo, D., Moretti, L., & Pirlo, G. (2022). AUCO ResNet: an end-to-end network for Covid-19 pre-screening from cough and breath. _Pattern Recognition_, 108656. doi:10.1016/j.patcog.2022.108656
+
+    Dentamaro, V., Giglio, P., Impedovo, D., Moretti, L., & Pirlo, G. (2022). AUCO ResNet: an end-to-end network for Covid-19 pre-screening from cough and breath. _Pattern Recognition_, 108656. doi:10.1016/j.patcog.2022.108656
 
 # Highlights
 
